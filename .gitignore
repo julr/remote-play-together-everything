@@ -1,0 +1,8 @@
+# files
+*.user
+
+# folders
+.vs/
+bin/
+obj/
+publish/
